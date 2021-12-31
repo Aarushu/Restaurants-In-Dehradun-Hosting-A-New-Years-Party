@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color:rgb(11, 198, 223);
+    font-family:'Pushster', cursive;
+}
+#TibetanRestaurants{
+    background-color: aquamarine;
+    border-radius: 40px;
+}
+#Cafes{
+    background-color: aquamarine;
+    border-radius: 40px;
+}
+.h1{
+    font-size: 40px;
+    font-weight: 300;
+}
